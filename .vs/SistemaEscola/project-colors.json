@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cae3b6a5-c91b-4fd3-8f88-c48576e6c99d": {
+      "ProjectGuid": "cae3b6a5-c91b-4fd3-8f88-c48576e6c99d",
+      "DisplayName": "SistemaEscola",
+      "ColorIndex": 0
+    },
+    "44b84377-07c1-477f-a8b9-746c70fff498": {
+      "ProjectGuid": "44b84377-07c1-477f-a8b9-746c70fff498",
+      "DisplayName": "BibliotecaSistemaEscola",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
